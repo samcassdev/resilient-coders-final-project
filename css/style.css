@@ -1,0 +1,19 @@
+body {
+/* background image from https://unsplash.com/photos/ZrqrP9Xs2vI */
+  background-image: url("../img/landingpage.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+form {
+  margin-top: 400px;
+}
+
+button {
+  margin-top: 20px;
+}
+
+button a {
+  text-decoration: none;
+}

@@ -1,0 +1,11 @@
+body {
+/* background image from https://unsplash.com/photos/ZrqrP9Xs2vI */
+  background-image: url("../img/landingpage.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+button a {
+  text-decoration: none;
+}
